@@ -1,16 +1,9 @@
-# four_object_detection
+# Real time object detection
 
-A new Flutter project.
+- > My app focuses on real-time object detection using Flutter, with the TensorFlow Lite model and google_ml_commons package. 
+- > It lets users instantly detect and identify objects through their device's camera. 
+- > The app uses advanced machine learning for fast and accurate object recognition, useful for tasks like inventory management and educational tools. 
+- > With a user-friendly interface, it brings powerful technology to everyday use, enhancing the user experience with reliable real-time detection.
 
-## Getting Started
+https://github.com/Nirmal-Bhuva/Real_time_object_detection/assets/91771820/70f50f85-68f0-424d-9c65-9756c84a7601
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
